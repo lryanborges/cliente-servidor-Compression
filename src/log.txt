@@ -1,0 +1,106 @@
+	Veículo ID 867530912 adicionado.
+Fator de Carga: 0,043
+	Veículo ID 249876530 adicionado.
+Fator de Carga: 0,087
+	Veículo ID 431279865 adicionado.
+Fator de Carga: 0,13
+	Veículo ID 785043216 adicionado.
+Fator de Carga: 0,174
+	Veículo ID 592187643 adicionado.
+Fator de Carga: 0,217
+	Veículo ID 356908124 adicionado.
+Fator de Carga: 0,261
+	Veículo ID 678459231 adicionado.
+Fator de Carga: 0,304
+	Veículo ID 123587690 adicionado.
+Fator de Carga: 0,348
+	Veículo ID 984021356 adicionado.
+Fator de Carga: 0,391
+	Veículo ID 746205891 adicionado.
+Fator de Carga: 0,435
+	Veículo ID 315892467 adicionado.
+Fator de Carga: 0,478
+	Veículo ID 650198432 adicionado.
+Fator de Carga: 0,522
+	Veículo ID 879642310 adicionado.
+Fator de Carga: 0,565
+	Veículo ID 524769013 adicionado.
+Fator de Carga: 0,609
+	Veículo ID 167398245 adicionado.
+Fator de Carga: 0,652
+	Veículo ID 390847516 adicionado.
+Fator de Carga: 0,696
+	Veículo ID 218643759 adicionado.
+Fator de Carga: 0,739
+	Veículo ID 467931028 adicionado.
+Fator de Carga: 0,783
+	Veículo ID 859034162 adicionado.
+Fator de Carga: 0,826
+	Veículo ID 712406935 adicionado.
+Fator de Carga: 0,87
+	Veículo ID 230915678 adicionado.
+Fator de Carga: 0,913
+	Veículo ID 582630194 adicionado.
+Fator de Carga: 0,957
+	Veículo ID 946701823 adicionado.
+Fator de Carga: 1
+	Veículo ID 174398562 adicionado.
+Fator de Carga: 1,043
+	Veículo ID 310275489 adicionado.
+Fator de Carga: 1,087
+	Veículo ID 684931027 adicionado.
+Fator de Carga: 1,13
+	Veículo ID 542109783 adicionado.
+Fator de Carga: 1,174
+	Veículo ID 890156342 adicionado.
+Fator de Carga: 1,217
+	Veículo ID 765498201 adicionado.
+Fator de Carga: 1,261
+	Veículo ID 923615874 adicionado.
+Fator de Carga: 1,304
+	Veículo ID 439802156 adicionado.
+Fator de Carga: 1,348
+	Veículo ID 207584316 adicionado.
+Fator de Carga: 1,391
+	Veículo ID 681023495 adicionado.
+Fator de Carga: 1,435
+	Veículo ID 153496728 adicionado.
+Fator de Carga: 1,478
+	Veículo ID 720185634 adicionado.
+Fator de Carga: 1,522
+	Veículo ID 368972451 adicionado.
+Fator de Carga: 1,565
+	Veículo ID 596734028 adicionado.
+Fator de Carga: 1,609
+	Veículo ID 817362594 adicionado.
+Fator de Carga: 1,652
+	Veículo ID 265487903 adicionado.
+Fator de Carga: 1,696
+	Veículo ID 903124875 adicionado.
+Fator de Carga: 1,739
+	Veículo ID 481753296 adicionado.
+Fator de Carga: 1,783
+	Veículo ID 637218945 adicionado.
+Fator de Carga: 1,826
+	Veículo ID 129546780 adicionado.
+Fator de Carga: 1,87
+	Veículo ID 874062931 adicionado.
+Fator de Carga: 1,913
+	Veículo ID 356821407 adicionado.
+Fator de Carga: 1,957
+	Veículo ID 984370215 adicionado.
+Fator de Carga: 2
+	Veículo ID 524896703 adicionado.
+Fator de Carga: 2,043
+	Veículo ID 769230158 adicionado.
+Fator de Carga: 2,087
+	Veículo ID 210395687 adicionado.
+Fator de Carga: 2,13
+	Veículo ID 643810972 adicionado.
+Fator de Carga: 2,174
+	Veículo ID 8423923 adicionado.
+Fator de Carga: 2,217
+	Veículo ID 8423923 removido.
+Fator de Carga: 2,174
+	Veículo ID 637218945 removido.
+Fator de Carga: 2,13
